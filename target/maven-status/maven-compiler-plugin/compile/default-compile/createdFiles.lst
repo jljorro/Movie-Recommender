@@ -1,0 +1,7 @@
+es/ucm/gaia/cf/ItemBean.class
+es/ucm/gaia/services/ResponseCorsFilter.class
+es/ucm/gaia/cf/ItemRatedBean.class
+es/ucm/gaia/cf/MovieConnector.class
+es/ucm/gaia/cf/RecommenderApp.class
+es/ucm/gaia/Main.class
+es/ucm/gaia/services/RecommenderServices.class
